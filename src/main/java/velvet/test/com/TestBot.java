@@ -26,12 +26,12 @@ public class TestBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "@VelvetTestBot";
+        return "--";
     }
 
     @Override
     public String getBotToken() {
-        return "5096399634:AAERU1O9Y-YnTsLVCUOqUXBDvYrxouNcJ5o";
+        return "--";
     }
 
 
